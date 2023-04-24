@@ -16,4 +16,4 @@
             <hr align="left" width="50%" />
             <p>Damien Harris</p>
             <img src="https://rolltidewire.usatoday.com/wp-content/uploads/sites/15/2020/11/USATSI_15114718-1.jpg?w=1000&h=600&crop=1" border="1px" height="50%" width="50%">
-            <p>In 2019 the New England Patriots drafted Alabama running back Damien Harris as 87th overall pick in the third round.
+            <p>In 2019 the New England Patriots drafted Alabama running back Damien Harris as 87th overall pick in the third round. In his inagurual appearance as the lead back, Damien Harris 
